@@ -36,7 +36,7 @@ Execute the app using: streamlit run main.py. This will open directly in your br
 
 
 ## App Interface Screenshot
-![App_Interface](./Images/app_interface.png)
+![App_Interface](./src\assets\images\app_interface.png)
 
 ## Author
 Queensly K. Acheampongmaa
