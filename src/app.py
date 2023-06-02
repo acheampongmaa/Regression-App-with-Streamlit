@@ -56,6 +56,7 @@ st.title('✨SALES FORECASTING APP✨')
 # adding image
 image=Image.open(image_path)
 st.image(image, width=600)
+
      
 st.subheader("Hi there! 👋 Let's start predicting sales 🙂")
 
