@@ -1,6 +1,5 @@
-# Streamlit-Regression-App
+# Regression-App-with-Streamlit
 
-# Embedding-Regression-Model-in-Streamlit-
 An application using Streamlit for the Regression Model Project (Sales Forecasting). We build the ML model into a web app to interact with it much easier, by inputing the required information, making predictions and showing the result.
 
 ## Summary
