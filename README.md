@@ -5,7 +5,7 @@ An application using Streamlit for the Regression Model Project (Sales Forecasti
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4 | Embedding Sales Forcasting Model in Streamlit|  [Article](https://medium.com/@qacheampong/store-sales-forecasting-application-with-streamlit-33fb2dab6232/) | [](/) |
+| LP4 | Embedding Sales Forcasting Model in Streamlit|  [Article](https://medium.com/@qacheampong/store-sales-forecasting-application-with-streamlit-33fb2dab6232/) | [Store Sales Prediction App With Streamlit](https://huggingface.co/spaces/Queensly/Store_Sales_Prediction_StreamlitApp/) |
 
 
 ## Process Description
